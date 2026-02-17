@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+codecarbon
+torch
+transformers
+numpy

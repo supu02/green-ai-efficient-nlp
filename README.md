@@ -156,3 +156,5 @@ green-ai-efficient-nlp/
 
 Competition prototype completed.
 Code structured for reproducibility and public demonstration.
+
+
