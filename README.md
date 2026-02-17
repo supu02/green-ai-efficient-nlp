@@ -119,14 +119,15 @@ This project emphasizes:
 
 🏗 Project Structure
 
+```
 green-ai-efficient-nlp/
-│
-├── README.md              # Project overview and benchmark summary
-├── src/                   # Training and evaluation code (cleaned)
-├── configs/               # Model and experiment configurations
-├── figures/               # Benchmark visualizations and plots
-├── results/               # Quantitative experiment outputs
-└── docs/                  # Design notes and experimental rationale
+├── README.md      # Project overview and benchmark summary
+├── src/           # Training and evaluation code (cleaned)
+├── configs/       # Model and experiment configurations
+├── figures/       # Benchmark visualizations and plots
+├── results/       # Quantitative experiment outputs
+└── docs/          # Design notes and experimental rationale
+```
 
 
 ⸻
