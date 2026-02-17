@@ -155,7 +155,3 @@ Status
 
 Research prototype completed.
 Code to be cleaned and structured for public release.
-
-This Green AI project shows deployment maturity.
-
-That combination is exactly what companies look for.
