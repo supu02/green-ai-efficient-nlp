@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Envs
+envs/
+venv/
+.venv/
+
+# Large artifacts / weights
+*.pt
+*.bin
+*.safetensors
+*.pkl
+*.joblib
+*.onnx
+
+# Data (keep only small samples)
+data/train.csv
+data/*.csv
+!data/sample_test.csv
+!data/.gitkeep
+
+# Zips
+*.zip
+
+# OS
+.DS_Store
+
+# DVC (keep the .dvc files, ignore the cache)
+.dvc/cache/
